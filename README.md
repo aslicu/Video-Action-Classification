@@ -1,7 +1,10 @@
 # Video-Action-Classification
 Video action classification using Pytorch R3D-18 model
 
-![main figure](figs/crawling.gif)
+![figure1](figs/crawling.gif)
+![figure2](figs/billiard.gif)
+![figure3](figs/.hulohoop.gif)
+![figure3](figs/.soccer.gif)
 
 ### Dataset 
 You can download the UCF-101 dataset from the official source: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
