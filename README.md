@@ -39,4 +39,4 @@ python main.py --batch_size 32 --clip_len 16 --crop_size 256 --epochs 50 --lr 0.
 
 ```
 ###  Acknowledgements
-This code is based on [Rethinking Zero-shot Video Classification](https://github.com/bbrattoli/ZeroShotVideoClassification/) repository
+This code is based on [Rethinking Zero-shot Video Classification](https://github.com/bbrattoli/ZeroShotVideoClassification/) repository.
