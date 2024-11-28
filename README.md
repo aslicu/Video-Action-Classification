@@ -30,8 +30,6 @@ These can be modified to accommodate custom splits for semi-supervised learning 
 Additionally, semi-supervised splits `videossl_10p_ucf_labeled.txt` and `videossl_10p_ucf_unlabeled.txt` following the semi-supervised splits based on [VideoSSL](https://arxiv.org/abs/2003.00197) are provided as examples.
 
 
-### Checkpoints
-The trained model can be downloaded here.
 ### Running
 
 ```
