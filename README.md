@@ -1,5 +1,8 @@
 # Video-Action-Classification
 Video action classification using Pytorch R3D-18 model
+
+![main figure](figs/crawling.png)
+
 ### Dataset 
 You can download the UCF-101 dataset from the official source: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
 ### Directory Structure
