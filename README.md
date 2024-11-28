@@ -6,6 +6,15 @@ Video action classification using Pytorch R3D-18 model
 ![figure3](figs/.hulohoop.gif)
 ![figure3](figs/.soccer.gif)
 
+
+<p align="center">
+  <img src="figs/crawling.gif" alt="Crawling" width="200"/>
+  <img src="figs/billiard.gif" alt="Billiard" width="200"/>
+  <img src="figs/hulohoop.gif" alt="Hula Hoop" width="200"/>
+  <img src="figs/soccer.gif" alt="Soccer" width="200"/>
+</p>
+
+
 ### Dataset 
 You can download the UCF-101 dataset from the official source: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
 ### Directory Structure
