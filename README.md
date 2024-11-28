@@ -1,4 +1,5 @@
 # Video-Action-Classification
+video action classification using Pytorch R3D-18 model
 ### Dataset 
 You can download the UCF-101 dataset from the official source: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
 ### Directory Structure
@@ -10,7 +11,6 @@ workplace/
 ├── train.txt     # List of video clips for training (with optional semi-supervised labels)
 └── test.txt      # List of video clips for testing
 
-train.txt and test.txt should contain the relative paths to the video clips and their corresponding labels. These files can be customized to include labeled or unlabeled video clips for semi-supervised learning.
 
 ### Checkpoints
 The trained models, used to produce the numbers in the paper, can be downloaded here.
