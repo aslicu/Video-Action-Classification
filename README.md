@@ -10,7 +10,14 @@ Video action classification using Pytorch R3D-18 model
 
 
 ### Dataset 
-You can download the UCF-101 dataset from the official source: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
+You can download UCF-101 dataset from the official source: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
+### Requirements
+- Python 3
+- PyTorch 
+- NumPy 
+- imageio
+- opencv-python
+- 
 ### Directory Structure
 List of video clips for training and testing inside `train.txt`and `test.txt` respectively. 
 
