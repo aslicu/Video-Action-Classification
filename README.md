@@ -1,6 +1,6 @@
 # Video-Action-Classification
 ### Dataset 
-You can download the UCF-101 dataset from the official source: [UCF101] (https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
+You can download the UCF-101 dataset from the official source: [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
 ### Directory Structure
 workplace/
 ├── UCF101_Train/
