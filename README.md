@@ -19,4 +19,6 @@ train.txt and test.txt should contain the relative paths to the video clips and 
 The trained models, used to produce the numbers in the paper, can be downloaded here.
 
 # Running
+'''
 python main.py --batch_size 32 --clip_len 16 --crop_size 256 --epochs 50 --lr 0.0001
+'''
