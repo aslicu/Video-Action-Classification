@@ -1,5 +1,5 @@
 # Video-Action-Classification
-Video action classification using Pytorch R3D-18 model
+Video action classification using Pytorch R3D-18 model.
 
 <p align="center">
   <img src="figs/brush.gif" alt="Crawling" width="200"/>
@@ -19,7 +19,7 @@ You can download UCF-101 dataset from the official source: [UCF101](https://www.
 - Opencv-python
   
 ### Directory Structure
-List of video clips for training and testing inside `train.txt`and `test.txt` respectively. 
+List of video clips for training and testing can be found inside `train.txt`and `test.txt` respectively. 
 
 Video data should be stored inside `.../workplace/UCF101_Train/videos` and `.../workplace/UCF101_Test/videos`.
 
@@ -31,7 +31,7 @@ Additionally, semi-supervised splits `videossl_10p_ucf_labeled.txt` and `videoss
 
 
 ### Checkpoints
-The trained models, used to produce the numbers in the paper, can be downloaded here.
+The trained model can be downloaded here.
 ### Running
 
 ```
