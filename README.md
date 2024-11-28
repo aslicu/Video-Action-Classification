@@ -6,6 +6,10 @@ You can download the UCF-101 dataset from the official source: [UCF101](https://
 List of video clips for training and testing inside `train.txt`and `test.txt` respectively. 
 Video data should be stored inside `.../workplace/UCF101_Train/videos` and `.../workplace/UCF101_Test/videos`
 
+Note: Provided `train.txt` and `test.txt` files correspond to the official split 1 of the UCF-101 dataset. These can be modified to accommodate custom splits for semi-supervised learning experiments. 
+Additionally, semi-supervised splits following the 
+Semi-supervised splits based on [VideoSSL](https://arxiv.org/abs/2003.00197) also shared.
+
 
 ### Checkpoints
 The trained models, used to produce the numbers in the paper, can be downloaded here.
