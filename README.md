@@ -1,16 +1,10 @@
 # Video-Action-Classification
 Video action classification using Pytorch R3D-18 model
 
-![figure1](figs/crawling.gif)
-![figure2](figs/billiard.gif)
-![figure3](figs/.hulohoop.gif)
-![figure3](figs/.soccer.gif)
-
-
 <p align="center">
   <img src="figs/crawling.gif" alt="Crawling" width="200"/>
   <img src="figs/billiard.gif" alt="Billiard" width="200"/>
-  <img src="figs/hulohoop.gif" alt="Hula Hoop" width="200"/>
+  <img src="figs/hulahoop.gif" alt="Hula Hoop" width="200"/>
   <img src="figs/soccer.gif" alt="Soccer" width="200"/>
 </p>
 
