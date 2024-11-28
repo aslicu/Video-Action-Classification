@@ -1,9 +1,8 @@
 # Video-Action-Classification
-# Dataset 
+###Dataset 
 
 You can download the UCF-101 dataset from the official source: UCF101 Dataset.
-
-# Directory Structure
+### Directory Structure
 workplace/
 ├── UCF101_Train/
 │   └── videos/   # Training videos
@@ -14,7 +13,7 @@ workplace/
 
 train.txt and test.txt should contain the relative paths to the video clips and their corresponding labels. These files can be customized to include labeled or unlabeled video clips for semi-supervised learning.
 
-# Checkpoints
+### Checkpoints
 The trained models, used to produce the numbers in the paper, can be downloaded here.
 
 ### Running
