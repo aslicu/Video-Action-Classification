@@ -1,6 +1,5 @@
 # Video-Action-Classification
-###Dataset 
-
+### Dataset 
 You can download the UCF-101 dataset from the official source: UCF101 Dataset.
 ### Directory Structure
 workplace/
@@ -22,3 +21,5 @@ The trained models, used to produce the numbers in the paper, can be downloaded 
 python main.py --batch_size 32 --clip_len 16 --crop_size 256 --epochs 50 --lr 0.0001
 
 ```
+###  Acknowledgements
+This code is based on [Rethinking Zero-shot Video Classification repository](https://github.com/bbrattoli/ZeroShotVideoClassification/).
