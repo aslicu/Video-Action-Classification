@@ -4,7 +4,6 @@
 You can download the UCF-101 dataset from the official source: UCF101 Dataset.
 
 # Directory Structure
-bash 
 workplace/
 ├── UCF101_Train/
 │   └── videos/   # Training videos
