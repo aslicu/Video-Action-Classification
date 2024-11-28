@@ -15,8 +15,8 @@ You can download UCF-101 dataset from the official source: [UCF101](https://www.
 - Python 3
 - PyTorch 
 - NumPy 
-- imageio
-- opencv-python
+- Imageio
+- Opencv-python
 - 
 ### Directory Structure
 List of video clips for training and testing inside `train.txt`and `test.txt` respectively. 
