@@ -1,6 +1,6 @@
 # Video-Action-Classification
 ### Dataset 
-You can download the UCF-101 dataset from the official source: UCF101 Dataset.
+You can download the UCF-101 dataset from the official source: [UCF101] (https://www.crcv.ucf.edu/data/UCF101.php) Dataset. 
 ### Directory Structure
 workplace/
 ├── UCF101_Train/
@@ -22,4 +22,4 @@ python main.py --batch_size 32 --clip_len 16 --crop_size 256 --epochs 50 --lr 0.
 
 ```
 ###  Acknowledgements
-This code is based on [Rethinking Zero-shot Video Classification repository](https://github.com/bbrattoli/ZeroShotVideoClassification/).
+This code is based on [Rethinking Zero-shot Video Classification](https://github.com/bbrattoli/ZeroShotVideoClassification/) repository
