@@ -2,7 +2,7 @@
 Video action classification using Pytorch R3D-18 model
 
 <p align="center">
-  <img src="figs/crawling.gif" alt="Crawling" width="200"/>
+  <img src="figs/brush.gif" alt="Crawling" width="200"/>
   <img src="figs/billiard.gif" alt="Billiard" width="200"/>
   <img src="figs/hulahoop.gif" alt="Hula Hoop" width="200"/>
   <img src="figs/soccer.gif" alt="Soccer" width="200"/>
